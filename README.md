@@ -13,8 +13,10 @@
 &lt;img width="722" alt="126025503-9585c978-9fe4-44d1-a189-04eda20e7190" src="https://user-images.githubusercontent.com/85815581/126887332-4b96ce6c-5ab2-4187-a206-d7ad7e91fa57.png"> 
 
 # What is L293D H Bridge?
-A motor driver is an integrated circuit chip which is usually used to control motors in autonomous robots. Motor driver act as an interface between Arduino and the motors . The most commonly used motor driver IC’s are from the L293 series such as L293D, L293NE, etc. These ICs are designed to control 2 DC motors simultaneously. L293D consist of two H-bridge. H-bridge is the simplest circuit for controlling a low current rated motor.L293D has 16 pins. 
-![126024531-2352ce31-70c4-43a8-b05c-1f0a9c5078bd](https://user-images.githubusercontent.com/86169417/126885693-eda3444c-3c2e-4d5d-ba8b-328e36831b49.png)   
+A motor driver is an integrated circuit chip which is usually used to control motors in autonomous robots. Motor driver act as an interface between Arduino and the motors . The most commonly used motor driver IC’s are from the L293 series such as L293D, L293NE, etc. These ICs are designed to control 2 DC motors simultaneously. L293D consist of two H-bridge. H-bridge is the simplest circuit for controlling a low current rated motor.L293D has 16 pins.
+
+![126024531-2352ce31-70c4-43a8-b05c-1f0a9c5078bd](https://user-images.githubusercontent.com/86169417/126885693-eda3444c-3c2e-4d5d-ba8b-328e36831b49.png)
+
 # Steps : 
 #### step1: Connect Enable1&amp;amp;2,Enable3&amp;amp;4 and power1 with (5v) pin on Arduino. 
 #### step2: Connect input1 with 13 pin, input2 with 12, input3 with 8 pin pin, input4 with 7 pin on Arduino. 
