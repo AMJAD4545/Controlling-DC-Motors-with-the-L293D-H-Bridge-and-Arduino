@@ -21,7 +21,8 @@ A motor driver is an integrated circuit chip which is usually used to control mo
 #### step2: Connect input1 with 13 pin, input2 with 12, input3 with 8 pin pin, input4 with 7 pin on Arduino. 
 #### step3: Ground pins (4,5,12,13) on L293D connected to GND pin on Arduino. 
 #### step4: Connect Output1&amp;amp;Output2 with DC Motor1, Output3&amp;amp;Output4 with DC Motor2. 
-NOTE: DC Motor will rotating in clockwise direction and if you want to run DC motor in anticlockwise direction we need to some change in the code (Replace HIGH to LOW and vice versa).
+NOTE: DC Motor will rotating in clockwise direction and if you want to run DC motor in anticlockwise direction we 
+need to some change in the code (Replace HIGH to LOW and vice versa).
 ```c++  
 void loop()
 {  
