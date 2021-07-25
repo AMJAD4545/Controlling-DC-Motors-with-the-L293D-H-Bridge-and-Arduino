@@ -14,11 +14,11 @@ void loop()
   digitalWrite(12, LOW);
   digitalWrite(8, HIGH);
   digitalWrite(7, LOW);
-  delay(2000); // Wait for 1000 millisecond(s)
+  delay(2000); // Wait for 2000 millisecond(s)
   digitalWrite(13, LOW);
   digitalWrite(12, HIGH);
   digitalWrite(8, LOW);
   digitalWrite(7, HIGH);
-  delay(2000); // Wait for 1000 millisecond(s)
+  delay(2000); // Wait for 2000 millisecond(s)
  
 }
