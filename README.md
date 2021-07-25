@@ -8,7 +8,7 @@
 3. DC Motors.
 4. Wires. 
 5. L293D H Bridge.
-6. Battery 
+6. Battery. 
   <img width="722" alt="126025503-9585c978-9fe4-44d1-a189-04eda20e7190" src="https://user-images.githubusercontent.com/85800978/126887555-8c8ecf2e-7fdb-48b6-b2bb-423b3e49914e.png">
 
 # What is L293D H Bridge?
