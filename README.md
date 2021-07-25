@@ -1,7 +1,7 @@
 # Controlling-DC-Motors-with-the-L293D-H-Bridge-and-Arduino
 # Pre requirement  
 * Create an account in [tinkercad](https://www.tinkercad.com/) 
-*  * Create a new Circui
+* Create a new Circui
 # Tools:
 1. Breadboard.
 2. Arduino Uno R3.
